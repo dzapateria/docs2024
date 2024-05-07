@@ -10,7 +10,7 @@ yt-dlp -S "+codec:av01" https://youtu.be/a6VVrAZUnsc
 ```
 yt-dlp -F <URL>
 ``` 
-![](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
+![](https://raw.githubusercontent.com/dzapateria/docs2024/main/format-list.png)
 
 
 
